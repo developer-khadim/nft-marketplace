@@ -1,0 +1,18 @@
+@import "tailwindcss";
+
+
+
+/* CSS Color Variables */
+:root {
+    --primary: #a259ff;
+    --secondary: #377dff;
+    --success: #38cb89;
+    --danger: #ff5630;
+    --warning: #ffab00;
+    --info: #4e5d78;
+    --dark: #1a1d1f;
+    --light: #f9fafb;
+    --white: #ffffff;
+    --black: #000000;
+    --gray: #6c757d;
+}
